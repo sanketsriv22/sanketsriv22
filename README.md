@@ -10,7 +10,17 @@ As a graduate student, I'm deeply passionate about the intersection of machine l
 
 🔭 Some notable courses I've completed to familiarize myself with Machine Learning theory and applications:
 * Mathematics for Machine Learning: Linear Algebra by [_IBM Coursera_](https://coursera.org/share/27d669532422678f8de323556139c67c)*
+* Machine Learning with Python by [_IBM Coursera_](https://coursera.org/share/a8659990dd60019a691ec3ccf244fa2e)*
 
+Here are some of the many models I have used:
+*
+*
+*
+*
+
+<h2 align = "center"> Technical Skills </h2>
+
+[![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)](www.python.org) [![](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)](https://www.r-project.org/) [![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](cprogramming.com) [![](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)](pandas.pydata.org) [![](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)](numpy.org) [![](https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white)](latex-project.org) [![](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/excel)
 <!--
 **sanketsriv22/sanketsriv22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
