@@ -1,5 +1,9 @@
-### Hi there 👋
+### Hi there, I'm Sanket Srivastava 👋
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suhas-maddali/)
 
+
+- 🔭 I’m currently working on projects involving LLM's, Generative AI, Mathematical and Statistical Modeling, and Machine Learning Algorithms
+- 🌱 I’m currently a Masters in Bioinformatics student at Northeastern University in Boston, MA.
 <!--
 **sanketsriv22/sanketsriv22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
