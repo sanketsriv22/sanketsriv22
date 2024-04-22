@@ -1,5 +1,5 @@
 ### Hi there, I'm Sanket Srivastava 👋
-[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suhas-maddali/)
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanketsrivastava2/)
 
 
 - 🔭 I’m currently working on projects involving LLM's, Generative AI, Mathematical and Statistical Modeling, and Machine Learning Algorithms
