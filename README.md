@@ -8,12 +8,23 @@
 
 As a graduate student, I'm deeply passionate about the intersection of machine learning, bioinformatics, statistics, and optimization. I enjoy applying advanced computational techniques to decipher the life sciences, and more. Some interests I have are exploring innovative algorithms for genomic analysis, optimizing models for drug discovery, and advancing personalized medicine through AI.
 
+⚡ My current graduate coursework at Northeastern University includes:
+* Computational Methods in Bioinformatics
+* Bioinformatics Programming
+* Statistics in Bioinformatics
+* Algorithms
+* Data Mining and Machine Learning
+* Mathematical Methods and Modeling
+* Probability and Statistics
+* Differential Equations
+* Linear Algebra
+
 🔭 Some notable courses I've completed to familiarize myself with Machine Learning theory and applications:
 * Mathematics for Machine Learning: Linear Algebra by [_IBM Coursera_](https://coursera.org/share/27d669532422678f8de323556139c67c)*
 * Machine Learning with Python by [_IBM Coursera_](https://coursera.org/share/a8659990dd60019a691ec3ccf244fa2e)*
 
 Here are some of the many models I have used:
-*
+* 
 *
 *
 *
