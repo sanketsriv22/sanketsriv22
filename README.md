@@ -1,16 +1,16 @@
-<h1 align = "center"> Hi there, I'm Sanket Srivastava 👋 </h1>
+<h1 align = "center"> Hello </h1>
 
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanketsrivastava2/) [![](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:srivastava.sank@northeastern.edu)
 
-🌱 I’m a Masters in Bioinformatics student at Northeastern University in Boston, MA.
+I’m a Masters in Bioinformatics student at Northeastern University in Boston, MA.
 As a graduate student, I'm deeply passionate about the intersection of machine learning, bioinformatics, statistics, and optimization. I enjoy applying advanced computational techniques to decipher the life sciences, and more. Some interests I have are exploring innovative algorithms for genomic analysis, optimizing models for drug discovery, and advancing personalized medicine through AI.
 
-🔭 Currently, I'm working on projects involving LLM's, Generative AI, Mathematical and Statistical Modeling, and Machine Learning Algorithms
+Currently, I'm working on projects involving LLM's, Generative AI, Mathematical and Statistical Modeling, and Machine Learning Algorithms
 
 
 
 
-⚡ My graduate coursework at Northeastern University to date includes:
+ My graduate coursework at Northeastern University to date includes:
 * Computational Methods in Bioinformatics
 * Bioinformatics Programming
 * Statistics in Bioinformatics
@@ -21,7 +21,7 @@ As a graduate student, I'm deeply passionate about the intersection of machine l
 * Differential Equations
 * Linear Algebra
 
-🔭 Some notable courses I've completed to familiarize myself with Machine Learning theory and applications:
+Some notable courses I've completed to familiarize myself with Machine Learning theory and applications:
 * Mathematics for Machine Learning: Linear Algebra by [_IBM Coursera_](https://coursera.org/share/27d669532422678f8de323556139c67c)*
 * Machine Learning with Python by [_IBM Coursera_](https://coursera.org/share/a8659990dd60019a691ec3ccf244fa2e)*
 
