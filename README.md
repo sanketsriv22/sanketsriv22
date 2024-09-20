@@ -11,13 +11,13 @@ Currently, I'm working on projects involving LLM's, Generative AI, Mathematical 
 
 
  My graduate coursework at Northeastern University to date includes:
-* Computational Methods in Bioinformatics
-* Bioinformatics Programming
+* Machine Learning and Statistical Learning Theory
+* Algorithms for Optimization
 * Statistics in Bioinformatics
 * Algorithms
-* Data Mining and Machine Learning
-* Mathematical Methods and Modeling
 * Probability and Statistics
+* Computational Methods in Bioinformatics
+* Bioinformatics Programming
 * Differential Equations
 * Linear Algebra
 
