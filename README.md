@@ -2,10 +2,10 @@
 
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanketsrivastava2/) [![](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:srivastava.sank@northeastern.edu)
 
-I’m a Masters in Bioinformatics student at Northeastern University in Boston, MA.
-As a graduate student, I'm deeply passionate about the intersection of machine learning, bioinformatics, statistics, and optimization. I enjoy applying advanced computational techniques to decipher the life sciences, and more. Some interests I have are exploring innovative algorithms for genomic analysis, optimizing models for drug discovery, and advancing personalized medicine through AI.
+I’m an Applied Mathematics and Bioinformatics graduate student at Northeastern University in Boston, MA.
+I'm deeply passionate about the intersection of deep learning, bioinformatics, statistics, and optimization. I enjoy applying advanced computational techniques to decipher the life sciences, and more. Some interests I have are exploring innovative algorithms for genomic analysis, optimizing models for drug discovery, and advancing personalized medicine through AI.
 
-Currently, I'm working on projects involving LLM's, Generative AI, Mathematical and Statistical Modeling, and Machine Learning Algorithms
+Currently, I'm working on projects involving LLM's, Optimization, Mathematical and Statistical Modeling, and Deep Learning Algorithms
 
 
 
