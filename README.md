@@ -2,22 +2,19 @@
 
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanketsrivastava2/) [![](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:srivastava.sank@northeastern.edu)
 
-I’m an Applied Mathematics and Bioinformatics graduate student at Northeastern University in Boston, MA.
-I'm deeply passionate about statistics, optimization, and their real-world applications. I enjoy leveraging advanced computational techniques to solve complex problems across diverse domains, including life sciences and finance. My interests range from developing innovative algorithms for genomic analysis and optimizing models for drug discovery, to applying AI and quantitative methods for portfolio optimization, risk modeling, and financial forecasting. Whether decoding biological systems or market dynamics, I'm driven by the pursuit of insightful, data-informed solutions.
+I’m a recent Applied Mathematics master's graduate at Northeastern University in Boston, MA.
+I'm deeply passionate about statistics, optimization, and their real-world applications. My interests lie in utilizing quantitative methods for portfolio optimization, risk modeling, and financial forecasting. I'm driven by the pursuit of mathematically rigorous and data-informed solutions.
 
-Currently, I'm working on projects involving LLM's, Optimization, Mathematical and Statistical Modeling, and Deep Learning Algorithms
-
-
+Currently, I'm working on projects involving C++, Optimization, Mathematical and Statistical Modeling, and Deep Learning Algorithms
 
 
- My graduate coursework at Northeastern University to date includes:
+ My graduate coursework includes:
 * Machine Learning and Statistical Learning Theory
 * Algorithms for Optimization
 * Statistics in Bioinformatics
 * Algorithms
 * Probability and Statistics
-* Computational Methods in Bioinformatics
-* Bioinformatics Programming
+* Numerical Analysis
 * Differential Equations
 * Linear Algebra
 
